@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.ipynb_checkpoints
+*.db
+*.sqlite3
+*.safetensors
+*.log
+.DS_Store
+Thumbs.db
