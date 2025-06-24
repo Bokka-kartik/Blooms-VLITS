@@ -30,4 +30,27 @@ python main.py
 
 
 
+step by step details to ACCESS  the proejct in your local system
+
+ step-1: git clone https://github.com/Bokka-kartik/Blooms-VLITS.git
+         cd Blooms-VLITS
+
+ step-2: python -m venv venv
+         venv\Scripts\activate  (create and activate a virtual environment)
+
+ step-3: pip install -r requirements.txt  (install dependencies )
+ 
+ step-4: python main.py  (for the working/run the main python file )
+
+ step5: download the large file (You can download them from the shared Google Drive link above and place them in           the correct folders manually.)
+ 
+ step-6: Your project should now be set up and ready to use
+
+keynote: Make sure to activate your environment every time before running the project.
+
+        
+
+
+
+
 
