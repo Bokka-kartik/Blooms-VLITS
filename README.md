@@ -45,7 +45,15 @@ step by step details to ACCESS  the proejct in your local system
  
  step-6: Your project should now be set up and ready to use
 
-keynote: Make sure to activate your environment every time before running the project.
+## keynote
+Always activate your virtual environment before running the project.
+
+Make sure the model file is placed correctly under the model/ folder.
+
+This project is designed for educational environments and can be expanded further with REST APIs or database integration.
+
+## Contributions
+Pull requests and issues are welcome. Let's improve education tech together!
 
         
 
