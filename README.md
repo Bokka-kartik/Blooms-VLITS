@@ -1,8 +1,8 @@
 # Blooms VLITS
 
 A web application that uses a fine-tuned BERT model to classify questions according to Bloom’s Taxonomy. Useful for educational institutions to analyze and generate question papers intelligently.
+![Project Screenshot](vignan.png)
 
-![Screenshot 2025-07-07 215333](https://github.com/user-attachments/assets/82e98183-8853-482f-a1be-d16db6529028)
  Features
 - Upload questions for Bloom level classification
 - Admin and student dashboards
