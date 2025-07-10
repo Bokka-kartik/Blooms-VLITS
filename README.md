@@ -55,8 +55,9 @@ Make sure the model file is placed correctly under the model/ folder.
 
 This project is designed for educational environments and can be expanded further with REST APIs or database integration.
 
-##Research Paper 
-i also attached the related paper that we have done feel free to refer the document for any doubt regarding the project [title : Research Paper] 
+## Research Paper 
+i also attached the related paper that we have done feel free to refer the document for any doubt regarding the project 
+[title : Research Paper] 
 
 
 ## Contributions
