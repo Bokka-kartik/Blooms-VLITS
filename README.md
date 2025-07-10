@@ -44,7 +44,7 @@ step by step details to ACCESS  the proejct in your local system
  
  step-4: python main.py  (for the working/run the main python file )
 
- step5: download the large file (You can download them from the shared Google Drive link above and place them in           the correct folders manually.)
+ step5: download the large file (You can download them from the shared Google Drive link above and place them in the correct folders manually.)
  
  step-6: Your project should now be set up and ready to use
 
@@ -56,7 +56,7 @@ Make sure the model file is placed correctly under the model/ folder.
 This project is designed for educational environments and can be expanded further with REST APIs or database integration.
 
 ##Research Paper 
-i also attached the related paper that we have done feel free to refer the document for any doubt regarding the project
+i also attached the related paper that we have done feel free to refer the document for any doubt regarding the project [title : Research Paper] 
 
 
 ## Contributions
