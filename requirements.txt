@@ -5,4 +5,4 @@ pandas
 scikit-learn
 spacy
 nltk
-
+python-docx
