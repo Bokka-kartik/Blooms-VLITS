@@ -1,7 +1,8 @@
 streamlit
-torch==2.3.1
+torch>=2.5
 transformers>=4.30
 pandas
 scikit-learn
 spacy
 nltk
+
