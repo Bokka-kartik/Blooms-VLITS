@@ -1,80 +1,4 @@
-# import pandas as pd
-# import random
-# from docx import Document
-# import os
 
-# DATASET_FOLDER = "dataset/"
-
-# def get_dataset_for_subject(subject):
-#     dataset_path = os.path.join(DATASET_FOLDER, f"{subject}.csv")
-#     if os.path.exists(dataset_path):
-#         return pd.read_csv(dataset_path)
-#     return None
-
-# def generate_question_paper(topic, num_questions, total_marks, bloom_distribution, difficulty_distribution, marks_per_difficulty):
-#     doc = Document()
-#     doc.add_heading(f"Question Paper: {topic}", level=1)
-#     doc.add_paragraph(f"Total Marks: {total_marks}")
-
-#     df = get_dataset_for_subject(topic)
-#     if df is None or df.empty:
-#         return None  
-
-#     bloom_levels = ["Remember", "Understand", "Apply", "Analyze", "Evaluate", "Create"]
-#     difficulty_levels = ["Easy", "Medium", "Hard"]
-    
-#     selected_questions = []
-
-#     # Step 1: Select questions based on Bloom's taxonomy percentages
-#     bloom_selected = {bloom: [] for bloom in bloom_levels}
-#     for bloom in bloom_levels:
-#         num_bloom_questions = max(int((bloom_distribution.get(bloom, 0) / 100) * num_questions), 1)
-#         available_questions = df[df["bloom_taxonomy_level"] == bloom]["question"].tolist()
-        
-#         if len(available_questions) < num_bloom_questions:
-#             num_bloom_questions = len(available_questions)  # Adjust if dataset has fewer questions
-
-#         bloom_selected[bloom] = random.sample(available_questions, num_bloom_questions)
-
-#     # Flatten list to get all Bloom-selected questions
-#     bloom_filtered_questions = [q for questions in bloom_selected.values() for q in questions]
-
-#     # Step 2: Filter based on difficulty distribution
-#     final_questions = []
-#     for difficulty in difficulty_levels:
-#         num_diff_questions = difficulty_distribution.get(difficulty, 0)
-#         available_questions = [q for q in bloom_filtered_questions if df[df["question"] == q]["difficulty"].values[0] == difficulty]
-        
-#         if len(available_questions) < num_diff_questions:
-#             print(f"⚠️ Warning: Not enough {difficulty} questions. Using all available.")
-#             num_diff_questions = len(available_questions)  # Adjust count if not enough available
-
-#         selected = random.sample(available_questions, num_diff_questions)
-#         final_questions.extend(selected)
-
-#     # Step 3: Assign Marks
-#     marks_assigned = []
-#     remaining_marks = total_marks
-
-#     for question in final_questions[:-1]:
-#         difficulty = df[df["question"] == question]["difficulty"].values[0]
-#         mark = marks_per_difficulty.get(difficulty, 2)  # Default to 2 marks if missing
-#         marks_assigned.append(mark)
-#         remaining_marks -= mark
-
-#     # Assign remaining marks to last question
-#     if remaining_marks > 0:
-#         marks_assigned.append(remaining_marks)
-#     else:
-#         final_questions.pop()
-
-#     # Step 4: Write to Word Document
-#     file_name = f"generated_papers/{topic}_question_paper.docx"
-#     for idx, (question, marks) in enumerate(zip(final_questions, marks_assigned)):
-#         doc.add_paragraph(f"{idx + 1}. {question} [{marks} Marks]")
-
-#     doc.save(file_name)
-#     return file_name
 import pandas as pd
 import random
 from docx import Document
@@ -142,15 +66,19 @@ def generate_question_paper(topic, num_questions, total_marks, bloom_distributio
     selected_questions = []
     questions_with_marks = []
     
-    # First, group questions by Bloom's taxonomy and difficulty
+    #grouped_questions = {
+    #    bloom: {
+    #       diff: df[(df['bloom_taxonomy_level'] == bloom) & 
+    #                (df['difficulty'] == diff)]['question'].tolist()
+    #        for diff in difficulty_distribution.keys()
+    #    }
+    #    for bloom in questions_per_bloom.keys()
+    #}
     grouped_questions = {
-        bloom: {
-            diff: df[(df['bloom_taxonomy_level'] == bloom) & 
-                    (df['difficulty'] == diff)]['question'].tolist()
-            for diff in difficulty_distribution.keys()
-        }
-        for bloom in questions_per_bloom.keys()
-    }
+    bloom: df[df['bloom_taxonomy_level'] == bloom]['question'].tolist()
+    for bloom in questions_per_bloom.keys()
+}
+
     
     # Select questions ensuring both Bloom's and difficulty distributions are met
     difficulty_counts = {diff: 0 for diff in difficulty_distribution.keys()}
@@ -221,4 +149,5 @@ def generate_question_paper(topic, num_questions, total_marks, bloom_distributio
     # file_name = f"generated_papers/{topic}_question_paper.docx"
     # doc.save(file_name)
     
+
     return file_name
