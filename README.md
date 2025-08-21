@@ -1,3 +1,6 @@
+I have also added a demo run(in about Section) for a better idea about the project before going to run entire code in your local device 
+or could click here for direct URL(https://blooms-vlits-j8aodkrrjddn939dz94ajy.streamlit.app/)
+
 # Blooms VLITS
 
 A web application that uses a fine-tuned BERT model to classify questions according to Bloom’s Taxonomy. Useful for educational institutions to analyze and generate question papers intelligently.
