@@ -77,10 +77,10 @@ thinc
 threadpoolctl
 tokenizers
 toml
-torch>=2.0
+torch>=2.0,<2.5
 tornado
 tqdm
-transformers>=4.30
+transformers>=4.30,<4.40
 typer
 typing_extensions
 tzdata
@@ -89,3 +89,4 @@ wasabi
 watchdog
 weasel
 wrapt
+
