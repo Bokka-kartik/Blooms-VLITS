@@ -1,0 +1,719 @@
+question,bloom_taxonomy_level
+Compare full-custom and semi-custom design methodologies.,Understandinging
+Explain High-k metal technology.,Understandinging
+Explain in detail about the First Generation Analog Cellular Telephone system.,Understanding
+Explain natural language processing (NLP) and its challenges.,Understanding
+Explain the operation of a single-stage amplifier with resistive load.,Understanding
+Define mutual information and list its properties.,Understanding
+"Briefly describe the significance of the Shannon limit for information capacity. Given a standard telephone circuit with a signal-to-noise power ratio of 30dB and a bandwidth of 2.7 kHz, determine the Shannon limit for information capacity.",Applying
+Define ripple factor and calculate the ripple factor of a half-wave rectifier.,Remembering
+Discuss the generalized analysis of a transistor amplifier model using h-parameters.,Understanding
+Explain about Basic Telephone Call Procedures.,Understanding
+Discuss cloud computing and AI integration.,Understanding
+Discuss the importance of explainability in AI models.,Understanding
+What is the role of system calls in OS? Explain types of system calls.,Understanding
+Derive the voltage gain equation for a common source amplifier at high frequencies.,Applying
+Explain the importance of pass-transistor logic with examples.,Understanding
+Explain k-means clustering with a suitable example.,Understanding
+Discuss how Threads and Processes are related. What parameters are common to Process and Threads? Explain in detail.,Understanding
+Define Multiplexing. Describe its goals and importance.,Understanding
+Determine L=2n for a PCM signal with Î¼=100 and SNR = 40 dB. Calculate output SQNR.,Applying
+Explain how an LED differs from an ordinary PN junction diode and list its applications.,Understanding
+Write short notes on metastability in CMOS logic.,Understanding
+"For a 12-bit data string of 101100010010, determine the number of Hamming bits required, assume an arbitrary single-bit transmission error, and prove that the Hamming code will successfully detect the error.",Applying
+Explain the concept of punch-through/reach-through in a BJT.,Understanding
+What is Redundancy? Write about Character and Message Redundancy.,Understanding
+"Compute entropy for a source with symbols A, B, C (probabilities 0.5, 0.3, 0.2) and develop Huffman code.",Applying
+Explain Paging Systems.,Understanding
+"For a single-mode optical cable with an optical cable 0.25 dB/km loss, determine the optical power 100 km from a 0.1 mW light source.",Applying
+Explain alternate gate circuits using a NAND gate as an example.,Understanding
+Write in brief about Serial and Parallel Data Transmission.,Understanding
+Explain schemes for digital data transmission.,Understanding
+Explain how PPM can be generated from PWM signals.,Understanding
+Write short notes on high-k metal technology.,Understanding
+What is a network topology? Classify different network topologies.,Understanding
+Draw a CMOS inverter circuit and explain transfer characteristics using equations.,Understanding
+Design a new circuit that automatically switches between solar power and grid power based on availability.,Creating
+What is a process? Explain process states with a state transition diagram.,Understanding
+Determine the pull-up to pull-down ratio for an NMOS inverter driven by another NMOS inverter.,Applying
+Explain Master-Slave Edge-Triggered Registers.,Understanding
+Classify and explain Bar Codes.,Understanding
+What is pattern association?,Understanding
+What are the advantages of optical fiber cables?,Understanding
+Write down the equations for Ids of an n-channel enhancement MOSFET operating in non-saturated and saturated regions.,Remembering
+Describe different types of joins in SQL with examples.,Understanding
+Describe the losses in Optical Fiber Cables.,Understanding
+Define Electromagnetic Radiation. Write the mathematical representation of power density.,Applying
+Explain the fuzzy inference engine.,Understanding
+Write in brief about Random and Broadcast control channels.,Understanding
+What is meant by Diffraction?,Remembering
+"Depicting the organization of layers, explain the Open System Interconnection model.",Understanding
+What is deadlock? Explain necessary conditions for deadlock.,Understanding
+Write short notes on the modeling of a transistor in detail.,Understanding
+Explain the trade-off between bandwidth and SNR.,Understanding
+Give the construction details and characteristics of enhancement mode MOSFET.,Remembering
+What are ethical concerns in AI development?,Remembering
+Draw the small signal model of an FET and explain the significance of each element.,Understanding
+List the Modem operational modes.,Remembering
+Explain the operation of a common-gate amplifier with a diagram.,Understanding
+Explain the characteristics of Electromagnetic waves.,Understanding
+Write a short note on the Giga-scale dilemma.,Understanding
+Derive an expression for the continuity equation and explain its importance.,Understanding
+What is the use of Cladding in an Optical Fiber? Give the limitations of Optical Fiber.,Remembering
+Develop a conceptual model for a heat exchanger that improves efficiency while reducing material costs.,Creating
+Design a new type of antenna that optimizes signal strength for 5G networks.,Creating
+Write in detail about the optical properties of Radio Waves.,Understanding
+Explain Amplitude Modulation with a neat sketch.,Understanding
+Explain the piecewise linear function with a neat sketch.,Understanding
+Explain the architecture of a recommendation system.,Understanding
+Explain hybrid AI systems and their advantages.,Understanding
+What are Microwaves? What are the advantages and disadvantages of Microwave Radio Communications?,Remembering
+Derive the expression for the Fermi level in an intrinsic semiconductor. Express electron and hole concentrations in terms of the Fermi level.,Understanding
+Explain small signal analysis of a common-source FET amplifier.,Analyzing
+Explain the minimax algorithm.,Understanding
+"For a 20-channel PCM/TDM system with an 8-KHz sample rate, 10 bits per sample, and one framing bit per frame, determine the Line speed.",Applying
+What is virtual memory? How does it improve system performance?,Understanding
+Design a database system that optimizes data retrieval speed for large-scale applications.,Creating
+"Derive the expressions for the current gain, voltage gain, input impedance, and output impedance of a CB amplifier using the h-parameter model.",Understanding
+What is the importance of reactive power? Explain reactive power control using a fuzzy logic controller.,Understanding
+What is feedforward recall?,Remembering
+"Draw and explain Single-Channel, Simplex PCM transmission system.",Understanding
+Write about FPGA programming technologies in detail.,Understanding
+"With necessary equations, derive charge densities in a semiconductor material.",Understanding
+Explain BiCMOS fabrication in the p-well process and its operation.,Understanding
+Explain demand paging and page replacement algorithms.,Understanding
+What are the characteristics of Electromagnetic waves?,Understanding
+Sketch the block diagram of a digital camera and explain digital camera implementation in an embedded operating system.,Understanding
+Explain DNS (Domain Name System) and its hierarchy.,Understanding
+Explain why delta modulation is a special case of DPCM.,Understanding
+Compare transistor amplifiers and explain their differences.,Understanding
+How can we check the effectiveness of data communication?,Evaluating
+Discuss the importance of data warehousing and data mining.,Understanding
+What is meant by Network Topology? Draw and explain the structure of all Multipoint Topologies.,Understanding
+Demodulate a PSK signal using a coherent receiver.,Applying
+Explain the threshold function with a neat sketch.,Understanding
+Explain clocked CMOS registers in detail.,Understanding
+Explain the various details held by a Map file generated during the process of cross-compiling an Embedded C project.,Understanding
+Explain the different sources of wiring capacitances and their impact on VLSI circuit performance.,Understanding
+Write short notes on the modeling of a transistor in detail.,Understanding
+Describe methods for driving large capacitive loads.,Understanding
+Explain the characteristics of AI problems.,Understanding
+"Compare the performance of inductive, L-section, and Ï€-section filters.",Analyzing
+Implement the McCulloch-Pitts network for the AND logic function.,Applying
+Define Carrier Systems and explain in detail about T-Carrier Systems.,Understanding
+Explain pipelining for optimizing sequential circuits.,Understanding
+"Discuss pattern recognition, control, and beamforming learning tasks.",Understanding
+Explain briefly about Frequency-Division Multiplexing (FDM).,Understanding
+Explain the different types of design rules and give some examples.,Understanding
+Define Artificial Intelligence.,Remembering
+Explain why it is better to fix the quiescent operating point in the middle of the active region.,Understanding
+Derive entropy for a binary asymmetric channel output.,Understanding
+Explain in detail about the single-mode and multi-mode step-index optical fiber.,Understanding
+Determine the Checksum for the following data and CRC-generating polynomials: ( G(x) = x^7 + x^4 + x^2 + x^0 ) ( P(x) = x^5 + x^4 + x^1 + x^0 ),Applying
+What is indexing in a database? Explain different types of indexing.,Understanding
+Describe in detail about Satellite Communication Systems.,Understanding
+What is deep learning? Explain its importance in modern AI.,Understanding
+Explain briefly about First Generation Analog Cellular Telephone Systems.,Understanding
+Discuss the limits of scaling and explain why scaling is necessary for VLSI circuits.,Understanding
+What are convolutional neural networks (CNNs)? Explain their working.,Understanding
+Explain how optical fiber is constructed with a diagram.,Understanding
+Write short notes on the ultra-deep-submicron era.,Understanding
+Design a web-based adaptive learning system that dynamically adjusts content difficulty based on user performance.,Creating
+Explain the PMOS enhancement mode fabrication process for different conditions of Vds.,Understanding
+What is Multiplexing? Define Time Division Multiplexing.,Understanding
+"Compare circuit switching, packet switching, and message switching.",Analyzing
+Invent a new braking system for bicycles that enhances safety without using traditional disc or drum brakes.,Creating
+Define Electromagnetic Radiation. Write the mathematical representation of power density.,Remembering
+Explain why the self-biasing arrangement cannot be used in an enhancement-type MOSFET.,Understanding
+What are optical fiber modes? Explain.,Understanding
+Explain the working of an enhancement-type MOSFET.,Understanding
+Draw the stick diagram for a 3-input NAND gate.,Applying
+Explain why the self-biasing arrangement cannot be used in an enhancement-type MOSFET.,Understanding
+Write about Linear versus Non-linear PCM codes.,Understanding
+Explain reinforcement learning with an example.,Understanding
+What are the Optical Properties of Radio Waves?,Understanding
+Define Metallic Transmission Lines. Explain the types of metallic transmission lines.,Understanding
+List out the disadvantages of optical fiber.,Remembering
+Discuss the different â€˜embedded firmware designâ€™ approaches in detail.,Understanding
+Explain in detail about the On-Chip Debugging (OCD).,Understanding
+Compare BCNF and 3NF with examples.,Analyzing
+Discuss about the ISO/OSI reference model with a neat sketch.,Understanding
+Explain the significance of Hall Effect and its applications.,Understanding
+Compare macro cellular system and digital cellular system.,Analyzing
+Explain how a DSB-SC signal is detected using a coherent detector.,Understanding
+What are the advantages of optical fiber cables?,Remembering
+Discuss security threats and protection mechanisms in OS.,Understanding
+Design a 2-input Ex-OR using CMOS Transmission gate.,Applying
+Explain the concept of query optimization in SQL.,Understanding
+Compare the advantages of FinFETs and TFETs in ultra-low-power applications.,Understanding
+"Explain CLB, IOB, and programmable interconnects in an FPGA design.",Understanding
+What is NAT (Network Address Translation)? How does it work?,Understanding
+Create a fault-tolerant CMOS inverter that can still function under partial transistor failure.,Creating
+Write a detailed note on Synchronous Voice-Band Modem.,Understanding
+What is meant by the learning process?,Remembering
+Draw encoder/decoder diagrams for a cyclic code with 1+D+D3.,Applying
+Explain the trade-off between bandwidth and SNR.,Understanding
+What is latch-up? How can it be eliminated?,Understanding
+What is the difference between propositional logic and predicate logic?,Understanding
+Discuss the operation of a UJT with necessary diagrams.,Understanding
+Explain the future trends in AI research.,Understanding
+Illustrate the watchdog timer for firmware execution supervision.,Applying
+List out the advantages of Optical Fiber cables.,Remembering
+Create an urban drainage system to prevent flooding in high-rainfall areas.,Creating
+Draw the state transition diagram for a convolutional encoder with given equations.,Applying
+Develop an innovative method to reduce power losses in a transmission system.,Creating
+Explain the importance of heuristics in AI search.,Understanding
+Explain the impact of AI on supply chain management.,Understanding
+Explain in detail about Frequency Division Multiplexing.,Understanding
+Draw and explain a BiCMOS inverter.,Understanding
+"Explain SQL commands: DDL, DML, DCL, and TCL.",Understanding
+What is meant by Redundancy Checking? Explain four basic types of Redundancy Checks.,Understanding
+Design a 2-input Multiplexer using CMOS Transmission gate.,Creating
+Describe how AI is used in self-driving cars.,Understanding
+Describe the different categories of Satellites.,Understanding
+What are the advantages of Microwave Radio Communication?,Remembering
+Discuss the principles of TFET technology.,Understanding
+What is a semaphore? How does it help in process synchronization?,Understanding
+What is normalization? Explain different normal forms.,Understanding
+Explain about the Optical Fiber Communications System with a block diagram.,Understanding
+Explain the operation of a photo transistor.,Understanding
+Design an energy harvesting system that generates power from walking movements in urban areas.,Creating
+Discuss federated learning and its applications.,Understanding
+Describe economic load dispatch using artificial neural networks.,Understanding
+What are ACID properties in DBMS? Why are they important?,Understanding
+Draw the circuit diagram of a single-stage amplifier with a resistive load and explain its operation.,Understanding
+Explain about Personal Communication System. Give its advantages and disadvantages.,Understanding
+Discuss briefly about Quadrature Amplitude Modulation.,Understanding
+Explain how thermistors are used for bias compensation.,Understanding
+Explain in detail about Error-Detection mechanisms with suitable examples.,Understanding
+Explain syndrome decoding and its error pattern identification.,Understanding
+Describe in detail about Terrestrial Propagation of Electromagnetic Waves.,Understanding
+"Generate codewords for cyclic BCH (15,5) code using g(x)=x10+x8+x5+x4+x2+x+1.",Applying
+Explain the process of Frequency Division Multiplexing.,Understanding
+Explain the problem of driving large capacitive loads. How can such loads be driven?,Understanding
+Determine L=2n for a PCM signal with Î¼=100 and SNR = 40 dB. Calculate output SQNR.,Applying
+Explain inductive reasoning in fuzzy membership assignment.,Understanding
+"Depicting the organization of layers, explain the Open System Interconnection model.",Understanding
+What are the classes of transmission media?,Remembering
+What is meant by Diffraction?,Remembering
+Discuss different FPGA families and their differences.,Understanding
+Explain how compressors and expanders are used for non-uniform quantization.,Understanding
+Explain why a matched filter is called an optimum filter.,Understanding
+Explain the different sources of wiring capacitances and their impact on VLSI circuit performance.,Understanding
+"Explain static, dynamic, and domino logics with examples.",Understanding
+Explain in detail about Layered Network Architecture.,Understanding
+Explain the concept of knowledge representation in artificial neural networks.,Understanding
+Discuss the role of AI in natural language processing (NLP).,Understanding
+How does the depletion region around the source and drain change due to scaling down of device dimensions?,Understanding
+Discuss different types of file systems in an operating system.,Understanding
+Use Schwartz inequality to find Hopt(f) for a matched filter.,Applying
+Explain Time-to-market? What is its significance in product development?,Understanding
+What is VPN? How does it ensure secure communication?,Understanding
+What is an FPGA? Draw its structure and list advantages.,Understanding
+Explain how light propagates through optical fiber.,Understanding
+Differentiate between crisp sets and fuzzy sets.,Understanding
+Draw and explain the V-I characteristics of a Varactor diode.,Understanding
+Describe the working of firewalls and intrusion detection systems.,Understanding
+Describe fuzzy Cartesian product with expressions.,Understanding
+Describe fuzzy logic with an example.,Understanding
+Explain briefly about Spherical Wavefront and the Inverse Square Law.,Understanding
+Write the sequence of the learning process.,Remembering
+Explain the operation of multiplexer-based latches in detail.,Understanding
+Write a short note on layered network architecture.,Understanding
+"Discuss in detail about the construction of Optical Fiber. Also, list the advantages of Optical Fiber cables.",Understanding
+Draw the h-parameter equivalent circuit for a common base amplifier and derive expressions for Al and Av.,Applying
+How does the depletion region around the source and drain change due to scaling down of device dimensions?,Understanding
+Why are pre-emphasis and de-emphasis needed in FM but not in AM? Explain.,Understanding
+Explain about wave propagation on metallic transmission lines and metallic transmission line losses.,Understanding
+Explain about diagonal clipping in a diode detector. How can it be eliminated?,Understanding
+Explain how the Q-point is obtained graphically.,Understanding
+Explain BiCMOS fabrication in the p-well process and its operation.,Understanding
+Explain Static power dissipation and Dynamic power dissipation.,Understanding
+"Derive expressions for input impedance, voltage gain, and output impedance of a common-source amplifier with a source resistor.",Applying
+Describe the significance of deep learning in image processing.,Understanding
+"Derive expressions for input impedance, voltage gain, and output impedance of a common-drain amplifier.",Applying
+Discuss briefly about Signal-to-Noise Ratio.,Understanding
+What is the difference between direct and indirect methods of FM generation? Explain the working of a balanced frequency discriminator with the help of a circuit diagram.,Understanding
+Explain about Asynchronous Voice-Band Modems with a neat Sketch.,Understanding
+Describe different types of CPU scheduling algorithms.,Understanding
+Define FDMA and write about AMPS identification codes.,Understanding
+Explain the construction and tunneling phenomenon of a Tunnel diode.,Understanding
+What is PCM Line speed? Represent it mathematically.,Understanding
+Describe different types of network topologies with diagrams.,Understanding
+Describe rule-based expert systems.,Understanding
+Explain the radial basis function algorithm.,Understanding
+What is ROM emulation? Explain In Circuit Emulator (ICE) based debugging in detail.,Understanding
+Explain a new way to visualize multi-dimensional datasets in a way that improves human interpretability without reducing information density.,Creating
+What is the use of the backpropagation algorithm?,Understanding
+What are NoSQL databases? Compare them with relational databases.,Understanding
+Explain the significance of barcodes in detail.,Understanding
+Derive Idl dVdsv ds relationship of MOS in the Resistive region.,Applying
+Write a short note on the four predominant methods of Pulse Modulation.,Understanding
+Write a short note on Multi-Frequency and Dial Pulses.,Remembering
+Explain the three levels of database architecture.,Understanding
+Explain the need for biasing in electronic circuits. What factors affect the stability factor?,Understanding
+"Explain Fan-in, Fan-out, and Choice of layers in gate-level design.",Remembering
+What is CDMA? Explain in Detail.,Remembering
+What is sheet resistance? Derive the Expression for Rs.,Understanding
+Build a machine learning model that predicts traffic congestion and suggests alternative routes.,Creating
+"Compare the performance of inductive, L-section, and Ï€-section filters.",Understanding
+Explain the operation of a common-gate amplifier with a diagram.,Remembering
+Discuss about DIGITAL COMPANDING.,Remembering
+Explain diode compensation against variations in base-emitter voltage (VBE).,Understanding
+Explain in detail the p-well process for CMOS fabrication indicating the masks used.,Understanding
+Briefly describe ATCT FDM hierarchy.,Remembering
+Draw and explain the V-I characteristics of a Varactor diode.,Understanding
+Write short notes on metastability in CMOS logic.,Remembering
+Explain FinFET technology.,Remembering
+"Explain the following operations on crisp sets with examples: (i) Complement, (ii) Difference.",Understanding
+Explain the various factors to be considered for the selection of scheduling criteria.,Understanding
+Compare transistor amplifiers and explain their differences.,Understanding
+"Define fuzzy sets and verify properties such as complement, associativity, and idempotence.",Understanding
+Explain why a matched filter is called an optimum filter.,Understanding
+What is Digital Line Encoding? Explain any four factors that should be considered when selecting a Line Encoding format.,Understanding
+Write about the shift register design and its implementation onto an FPGA.,Understanding
+Explain transistorized bias compensation against variations in base-emitter voltage (VBE).,Understanding
+What is knowledge representation?,Remembering
+Explain about the architecture of Global System for Mobile Communications (GSM).,Understanding
+Explain the concept of short-channel effects in detail.,Understanding
+"With a neat block diagram, explain the operation of a Frequency Division Multiplexing technique.",Understanding
+What is meant by transistor biasing? Describe various biasing methods.,Understanding
+Distinguish between Synchronous and Asynchronous Voice-Band Modems.,Understanding
+Compare paging and segmentation memory management techniques.,Understanding
+Describe Dynamic CMOS logic and np CMOS Logic.,Understanding
+Compute the centroid using the centroid method.,Applying
+Explain briefly about Signal Voltage-to-Quantization Noise Voltage Ratio.,Understanding
+"Compare fixed, collector-to-base, and self-bias circuits.",Understanding
+Explain about the OSI seven-layer International Protocol hierarchy.,Understanding
+Write the steps involved in prototyping the HDL code onto an FPGA device.,Remembering
+Explain MapReduce with an example.,Understanding
+Describe Pseudo NMOS logic and Domino CMOS Logic.,Understanding
+Define Cable Modems. Give its main advantages.,Understanding
+Write the mathematical expression for a membership function.,Remembering
+Describe AI applications in smart cities and IoT.,Understanding
+Explain the semantic network approach.,Understanding
+Define and explain Metastability.,Understanding
+Explain about Data Communication Networks.,Understanding
+Explain different digital signaling techniques.,Understanding
+Explain decision trees and their role in AI.,Remembering
+What are the characteristics of Electromagnetic waves?,Remembering
+Draw the circuit diagram of a single-stage amplifier with a resistive load and explain its operation.,Understanding
+Write short notes on Ratioed Circuits and Dynamic Circuits.,Remembering
+Explain CMOS n-Well Fabrication steps with neat sketches.,Understanding
+What is the significance of layered architecture in computer networks?,Understanding
+Define predicate logic. Explain inference rules.,Remembering
+What are the drawbacks of Delta Modulation (DM)? How can we overcome those drawbacks?,Understanding
+Explain routing algorithms: Distance Vector vs. Link State.,Understanding
+Explain Voice-Band Modern with block diagram.,Understanding
+List out any four advantages of Optical Fiber cables.,Remembering
+What are DSU and CSU?,Remembering
+What is a current mirror? Explain the general properties of a current mirror with a block diagram.,Understanding
+Obtain CB parameters in terms of CE parameters.,Applying
+Define Pulse Code Modulation (PCM). Explain briefly about PCM with suitable diagrams.,Understanding
+Explain the importance of pass-transistor logic with examples.,Understanding
+What are the different types of pre-processor directives available in â€˜Embedded Câ€™? Explain them in detail.,Remembering
+Explain FinFET technology and its advantages over MOSFETs.,Understanding
+Illustrate the functional blocks of FPGAs with a neat architecture diagram.,Understanding
+Explain thrashing in OS. How can it be prevented?,Understanding
+Explain the decoding logic for a DPSK demodulator.,Understanding
+Explain switch logic implementation using pass transistors.,Understanding
+Draw and explain a coherent ASK receiverâ€™s block diagram with equations.,Understanding
+"Explain 2 Âµm Double Metal, Double Poly CMOS / Bi-CMOS rules.",Remembering
+Describe the error backpropagation algorithm.,Understanding
+Compare the advantages of FinFETs and TFETs in ultra-low-power applications.,Understanding
+Illustrate how humans are better than computers.,Analyzing
+Explain in detail the two-station data communication circuit with suitable diagrams.,Understanding
+Tabulate differences between common-source and common-drain amplifiers.,Understanding
+Explain how an LED differs from an ordinary PN junction diode and list its applications.,Understanding
+Explain the role of AI in cybersecurity.,Understanding
+What is aperture effect? Explain.,Understanding
+Briefly discuss Master-Slave based edge-triggered registers with a neat diagram.,Understanding
+Draw encoder/decoder diagrams for a cyclic code with 1+D+D3.,Applying
+What is A* search? Explain with an example.,Understanding
+Explain Hadoop and its components.,Understanding
+Classify and explain Data Communication Character Codes.,Understanding
+Define the terms: i) Cell Splitting ii) Sectoring iii) Segmentation iv) Dualization.,Remembering
+Explain the FPGA design process in the Xilinx environment.,Understanding
+"Personal AI assistants (e.g., Siri, Alexa) struggle with Understandinging user emotions. Develop a novel mechanism for AI that allows it to interpret emotional context more accurately.",Creating
+Draw a standard Cascode current sink circuit and explain its operation.,Understanding
+Write a short note on short-channel effects.,Remembering
+Explain entity-relationship (E-R) modeling with an example.,Understanding
+Draw the FPGA design flow and explain.,Understanding
+Write about the shift register design and its implementation onto an FPGA.,Applying
+Explain how a Zener diode acts as a voltage regulator.,Understanding
+Define the terms: i) Bit Rate ii) Baud iii) Noise Voltage Ratio.,Remembering
+Explain different digital signaling techniques.,Understanding
+Draw and explain a coherent ASK receiver’s block diagram with equations.,Understanding
+What is IP addressing? Explain IPv4 vs. IPv6 differences.,Understanding
+Explain about the Synchronous Optical Network (SONET).,Understanding
+Explain how optical fiber is constructed with a diagram.,Understanding
+Explain the terms: i) Satellite Elevation categories ii) Satellite orbits and orbital patterns.,Understanding
+Explain 2Î¼m CMOS design rules and discuss with layout examples.,Remembering
+What is fuzzy reasoning? Explain types of fuzzy reasoning systems.,Understanding
+Explain Voice-Band Modern with block diagram.,Understanding
+Explain why delta modulation is a special case of DPCM.,Understanding
+Create a novel method to reduce industrial CO? emissions through chemical absorption.,Creating
+What are the advantages and disadvantages of distributed processing?,Understanding
+Explain the importance of biasing and define the three stability factors.,Understanding
+Describe the United States Digital Cellular System.,Understanding
+What is the difference between WDM and D-WDM?,Understanding
+Compare full-custom and semi-custom design methodologies.,Understanding
+Why is a load flow study required?,Understanding
+"Draw and explain Single-Channel, Simplex PCM transmission system.",Understanding
+Describe the applications of AI in medical diagnostics.,Understanding
+Describe support vector machines (SVM) for classification.,Understanding
+What are different types of database models?,Remembering
+Define mutual information and list its properties.,Remembering
+Explain the fuzzification module.,Understanding
+What are N-AMPS?,Remembering
+Current AI training models require enormous datasets and computing power. How would you create an AI system that learns efficiently with minimal data?,Creating
+What is Redundancy? Write about Character and Message Redundancy.,Understanding
+Explain pipelining in digital circuits and its advantages.,Understanding
+Explain the concept of Quality of Service (QoS) in networking.,Understanding
+Discuss in brief the application of satellite communications.,Understanding
+Explain the concept of explainable AI (XAI).,Understanding
+List and explain the Optical Properties of Radio Waves.,Understanding
+Determine the following: i) The channel capacity for a cellular telephone area comprised of seven microcells with 10 channels per cell. ii) Channel capacity if each microcell is split into four minicells. iii) Channel capacity if each minicell is further split into four microcells.,Applying
+What is the significance of Modem Equalizer in Modem Synchronization?,Understanding
+What are the salient features of broadcast radio receivers? Explain in detail.,Understanding
+Discuss genetic algorithms and their applications.,Understanding
+What is Time-Division Multiplexing? Explain with block diagram.,Understanding
+Write short notes on high-k metal technology.,Understanding
+Describe the primary characteristics of electromagnetic waves.,Understanding
+Write short notes on current sinks and sources.,Understanding
+Discuss about Wavelength Division Multiplexing (WDM) in detail.,Understanding
+Discuss the choice of fan-in and fan-out selection in gate-level design.,Understanding
+Explain Amplitude Modulation with a neat sketch.,Understanding
+Elaborate the principle of operation of an n-channel enhancement MOSFET and discuss the conditions for different regions of operation.,Understanding
+Write short notes on: i) Asynchronous Voice-Band Modems ii) Synchronous Voice-Band Modems.,Understanding
+Explain transistor modeling.,Understanding
+Define uncertainty. How does it arise in real-time?,Understanding
+Derive an expression for the continuity equation and explain its importance.,Applying
+Define A-law companding and Î¼-law companding.,Remembering
+Propose a mathematical model to predict climate change effects on specific ecosystems over the next 50 years,Creating
+Explain error detection techniques in data communication.,Understanding
+Write and explain sources of power dissipation in VLSI design.,Understanding
+Draw and explain the GSM system Architecture.,Understanding
+Explain in detail about the single-mode and multi-mode step-index optical fiber.,Understanding
+Implement an Ex-OR logic gate using CMOS logic.,Applying
+Explain the working of an enhancement-type MOSFET.,Understanding
+Derive entropy for a binary asymmetric channel output.,Applying
+Explain the working of a depletion-type MOSFET.,Understanding
+Explain the PMOS enhancement mode fabrication process for different conditions of Vds.,Understanding
+Explain the merits and limitations of Parallel port over Serial RS-232 interface.,Understanding
+Mention the standard organizations for data communications.,Remembering
+Discuss the principles of TFET technology.,Understanding
+What is Data Communication? Explain briefly data communication circuits.,Understanding
+Explain the single-layer continuous perceptron network for linearly separable classification.,Understanding
+What is Electrical noise? Write in brief the most prevalent types of Electrical noise.,Understanding
+"Compare supervised, unsupervised, and reinforcement learning.",Understanding
+Draw and explain the routing architecture of field-programmable gate arrays (FPGAs).,Understanding
+Derive the expression for the Fermi level in an intrinsic semiconductor. Express electron and hole concentrations in terms of the Fermi level.,Applying
+The current layout of a standard 2:1 multiplexer has excessive delay. Propose an alternative arrangement that improves performance without increasing chip area.,Creating
+Develop a plan for an earthquake-resistant high-rise building using innovative materials.,Creating
+Why use a common-drain amplifier? Calculate its voltage and current gain.,Applying
+Explain Mux-based Latches with an example.,Understanding
+Write a short note on Current sources and sinks.,Understanding
+Describe the sequence of operation for communicating with an I2C slave device.,Understanding
+List out the advantages of Optical Fiber cables.,Remembering
+Explain process synchronization and critical section problems.,Understanding
+Draw the circuit for an NMOS inverter and explain its operation and characteristics.,Understanding
+Determine the pull-up to pull-down ratio for an NMOS inverter driven by one or more pass transistor inverters.,Applying
+Explain how a digital camera is implemented using an embedded operating system.,Understanding
+Design a 2-input Ex-NOR using CMOS Transmission gate.,Creating
+Develop an algorithm to optimize sorting for large datasets with a time complexity better than O(n log n).,Creating
+Design a water distribution system for a small town using renewable energy sources.,Creating
+Compare A* search with Greedy Best-First Search.,Understanding
+Explain schemes for digital data transmission.,Remembering
+What are concurrency control techniques in DBMS?,Remembering
+Write about Linear versus Non-linear PCM codes.,Remembering
+"Derive the expressions for the current gain, voltage gain, input impedance, and output impedance of a CB amplifier using the h-parameter model.",Applying
+What is a perceptron? Write the limitations of the perceptron model.,Remembering
+Create a smart home automation system that integrates IoT for real-time energy monitoring.,Creating
+Write a short note on SONET.,Remembering
+Explain the training mechanism adopted in the Hopfield network.,Remembering
+Explain the various transistor current components and their significance.,Remembering
+Design a complete curriculum for teaching data science to high school students.,Creating
+Explain the terms: i) Satellite Elevation categories ii) Satellite orbits and orbital patterns.,Remembering
+Explain in detail about Microwave Communication Systems.,Remembering
+"Explain about various network topologies. Also, give a brief description of network classification.",Remembering
+Explain the use of AI in personalized healthcare.,Remembering
+Explain in detail about Error-Correction mechanisms with suitable examples.,Remembering
+Discuss briefly about Data Communications Circuits.,Remembering
+Write a short note on the four predominant methods of Pulse Modulation.,Remembering
+Define FDMA and write about AMPS identification codes.,Remembering
+Discuss AI applications in recommendation systems.,Remembering
+Define Subscriber Loop. Explain briefly about the working of a standard Telephone Set.,Remembering
+Write the steps involved in prototyping the HDL code onto an FPGA device.,Remembering
+Define Hamming Distance? Describe any four Error Detection Schemes.,Remembering
+Explain about AMPS identification codes.,Remembering
+"With a neat block diagram, explain the general system of optical fiber communication.",Remembering
+Propose a new sustainable bridge design that minimizes environmental impact while ensuring durability.,Creating
+Give the differences between Data Communication and Networks.,Remembering
+Compare Linux and Windows operating systems.,Remembering
+"Define Î±, Î², and Î³ of a transistor. Show how they are related to each other.",Remembering
+Draw the circuit for an NMOS inverter and explain its operation and characteristics.,Remembering
+Differentiate between forward chaining and backward chaining.,Remembering
+Explain about Ground Wave and Space Wave Propagation.,Understanding
+"Explain about Digital and Channel Service Units. Also, distinguish between them.",Understanding
+Explain about the constraints in the choice of layers in VLSI design.,Understanding
+Explain the operation of a PN junction diode when it is connected in reverse bias and forward bias.,Understanding
+What is congestion control in networking? Explain different techniques.,Understanding
+Explain the operation of multiplexer-based latches in detail.,Understanding
+Define Electromagnetic Waves. Describe their characteristics.,Understanding
+Draw the circuit diagram of an SR Master-Slave register and explain its operation.,Understanding
+Derive the expression for propagation delay in the case of cascaded pass transistors.,Applying
+Draw the h-parameter equivalent circuit for a common base amplifier and derive expressions for Al and Av.,Applying
+Explain the relationship between received signal strength and data rate using a constellation diagram.,Understanding
+Develop a self-sustaining wastewater treatment plant using microbial fuel cells.,Creating
+Discuss different FPGA families and their differences.,Understanding
+Describe the classification of Voice-Band Modems.,Understanding
+What is a Subscriber Loop?,Remembering
+Explain the body bias effect of a MOSFET in detail.,Understanding
+What is a trigger in SQL? Explain with an example.,Understanding
+Explain Master-Slave registers and cross-coupled NAND/NOR gates.,Understanding
+Explain the importance of biasing and define the three stability factors.,Understanding
+What is Interrupt? Explain its properties and what is its role in embedded application development?,Understanding
+Explain the term setup time and hold time in VLSI circuits.,Understanding
+Derive the weight change equation in the input and hidden layers of a backpropagation network.,Applying
+Discuss real-time stream processing in Big Data.,Understanding
+Derive an expression for transconductance of an n-channel enhancement MOSFET operating in the active region.,Applying
+Explain the step-by-step approach of FPGA design in the Xilinx environment.,Understanding
+List FPGA families and explain their differences.,Understanding
+Explain the relationship between received signal strength and data rate using a constellation diagram.,Understanding
+Describe pass transistors briefly with an example.,Understanding
+What are the limitations in selecting the operating region in a transistor circuit?,Understanding
+Compare connection-oriented and connectionless services.,Understanding
+What is meant by intrinsic and extrinsic semiconductors? Explain.,Understanding
+Write about the functions of the Telephone Set in detail.,Understanding
+Explain how a Zener diode acts as a voltage regulator.,Understanding
+"Define Î±, Î², and Î³ of a transistor. Show how they are related to each other.",Remembering
+Explain the concept of transaction management in DBMS.,Understanding
+What is skip distance?,Remembering
+Explain the construction and tunneling phenomenon of a Tunnel diode.,Understanding
+Discuss in detail about Peer-to-Peer and Dedicated Client/Server networks.,Understanding
+Explain different ways of communication between the serial communication ports.,Understanding
+Describe the difference between cable modems and standard voice band modems.,Understanding
+Explain diode compensation against variations in base-emitter voltage (VBE).,Understanding
+What are FPGAs? Explain about the principle and operation of FPGAs. What are its applications?,Understanding
+Explain in detail about the First Generation Analog Cellular Telephone system.,Understanding
+Distinguish between Serial and Parallel Data Transmission.,Understanding
+Explain the defuzzification module.,Understanding
+Draw and explain the optical fiber communication system.,Understanding
+What are different disk scheduling algorithms? Explain with examples.,Remembering
+Explain why it is better to fix the quiescent operating point in the middle of the active region.,Evaluating
+What are the different types of wireless networks?,Remembering
+What is meant by Modem Synchronization?,Remembering 
+Write down the equations for Ids of an n-channel enhancement MOSFET operating in non-saturated and saturated regions.,Remembering
+Write a brief note on GSM Services.,Remembering
+Write short notes on 56K Modems.,Remembering
+Explain the construction and operation of an SCR.,Understanding
+What are DSU and CSU?,Remembering
+Design a NOR gate using pass transistor logic.,Applying
+Explain backward chaining and its applications.,Understanding 
+Explain body bias effect and source degeneration of a common-source amplifier.,Understanding
+Explain the decoding logic for a DPSK demodulator.,Understanding 
+What are paging and segmentation in memory management?,Remembering
+Explain the construction and operation of an SCR.,Understanding
+Define and explain Free-Space path loss and Skip Distance.,Remembering 
+"Choose values of VGS = 1,2,3,4 and SV, assume that the channel modulation parameter is zero. Sketch to scale the output characteristics of an enhancement n-channel device if VT = 0.7V and ID = 500ÂµA when VGS = 5V in saturation.",Applying
+Draw the block diagram of Simplex Microwave Radio Link and explain it.,Remembering 
+Write the advantages of optical fiber communication.,Remembering
+Explain Î»-based design rules in VLSI circuits.,Understanding
+Mention the standard organizations for data communications.,Remembering
+Classify MOS scaling types and derive their effects on MOSFET parameters.,Analyzing
+What are control strategies in AI problem-solving?,Remembering 
+What are the different types of forecasting methods?,Remembering
+Explain the working of Ethernet and its frame structure.,Understanding
+Explain the difference between Bayesian and certainty factor models.,Understanding
+What is a subnet mask? How is it used in networking?,Remembering 
+Explain TFET technology.,Understanding
+What is the difference between â€˜Hardâ€™ and â€˜Softâ€™ real-time systems? Give an example for â€˜Hardâ€™ and â€˜Softâ€™ Real-Time kernels.,Analyzing
+Explain the BiCMOS process over CMOS technology.,Understanding 
+Write short notes on Cordless Telephones and Electronic Telephones.,Remembering
+List out the advantages and disadvantages of optical fiber transmission.,Remembering
+Discuss the role of AI in fraud detection.,Understanding 
+Discuss the Non-Linear PCM Codes.,Understanding
+"Draw circuits using CMOS, pseudo NMOS, and DCVS ",Applying 
+Explain sheet resistance ( R s ) applied to MOS transistors.,Understanding
+Explain transistorized bias compensation against variations in base-emitter voltage (VBE).,Understanding 
+Write about the classification of Voice-Band Modem.,Understanding
+Define Information Capacity and explain about M-ary Encoding.,Understanding
+Discuss briefly about Digital Modulation Systems.,Understanding
+Explain Digital Modulation with the help of a simplified block diagram.,Remembering 
+What are the different types of network protocols?,Remembering
+Draw and explain the operation of a common-source amplifier.,Understanding 
+Discuss the generalized analysis of a transistor amplifier model using h-parameters.,Analyzing
+Draw the VLSI design flow diagram and explain.,Understanding 
+How does machine learning enhance data analytics?,Understanding 
+Define Open Systems Interconnection (OSI).,Remembering
+Write about FPGA programming technologies in detail.,Understanding
+Explain the generation of PAM with mathematical analysis.,Understanding
+Write a brief note on the predominant losses in optical fiber cables.,Understanding
+Explain the concept of Paging Systems.,Understanding
+Compare different amplitude modulation techniques.,Understanding
+Describe inter-process communication (IPC) mechanisms in OS.,Understanding
+How does AI contribute to financial market predictions?,Understanding
+Write a detailed note on Retransmission and Forward Error Correction.,Understanding
+Discuss about Geosynchronous satellites.,Understanding
+Explain the body bias effect of a MOSFET in detail.,Understanding
+What is a recurrent network? Explain.,Understanding
+What is kernel? What are the different functions handled by a general-purpose kernel? Explain in detail.,Understanding
+Explain how thermistors are used for bias compensation.,Understanding
+"Explain 2 Âµm Double Metal, Double Poly CMOS / Bi-CMOS rules.",Understanding
+How does DHCP work in dynamic IP allocation?,Understanding
+Explain the term setup time and hold time in VLSI circuits.,Understanding
+Discuss the operation of a UJT with necessary diagrams.,Understanding
+Explain how a superheterodyne receiver works.,Understanding
+What is Time-Division Multiplexing? Explain with block diagram.,Understanding
+Draw and explain the routing architecture of field-programmable gate arrays (FPGAs).,Understanding
+Describe Bankerâ€™s Algorithm for deadlock avoidance.,Understanding
+Discuss the Linear PCM Codes.,Understanding
+Explain the various elements of an embedded system development environment.,Understanding
+What is a protocol? Give the key elements of a protocol.,Remembering
+Create a new encryption algorithm for securing IoT devices from cyber threats.,Creating
+What is the principle of Amplitude Modulation? Derive the expression for the AM wave and draw its spectrum.,Understanding
+Explain how compressors and expanders are used for non-uniform quantization.,Understanding
+What is Big Data Analytics? Why is it important?,Understanding
+List and explain the three orbital patterns used by satellites.,Understanding
+What are Microwaves? What are the advantages and disadvantages of Microwave Radio Communications?,Understanding
+Define the Fermi level and explain its significance in energy band diagrams.,Understanding
+What are the disadvantages in Optical Fiber Cables?,Remembering
+Describe constraint satisfaction problems with examples.,Understanding
+What is a common-drain amplifier? How do you find the voltage gain of a common-drain amplifier?,Understanding
+Explain deep submicron processes with schematic diagrams.,Understanding
+"Compare the different transistor amplifier configurations CE, CB, and CC.",Understanding
+Write a short note on current sources and sinks.,Remembering
+Discuss the breakdown mechanisms in semiconductor diodes.,Understanding
+Draw and explain the small-signal model for the MOS transistor.,Understanding
+Define Voice-Band Modem. Draw and discuss the Voice-Band Modem Block Diagram.,Understanding
+"Draw different shapes of membership functions and create one for the age groups: young"" ""middle-aged"" and ""old.""",Creating
+Discuss briefly about Analog Modulation Systems.,Understanding
+Explain syndrome decoding and its error pattern identification.,Understanding
+What is lambda in economic dispatch?,Remembering
+What is a stick diagram? Draw the stick diagram and layout for a CMOS inverter.,Understanding
+State Snellâ€™s law for refraction.,Remembering
+Develop an AI-based chatbot that adapts its response based on the emotional tone of the user.,Creating
+Explain the step-by-step approach of FPGA design in the Xilinx environment.,Understanding
+Explain the concept of short-channel effects in detail.,Understanding
+"Explain static, dynamic, and domino logics with examples.",Understanding
+Existing SRAM designs face a challenge in reducing leakage current. Construct a new cell architecture that minimizes this issue while maintaining speed.,Creating
+Explain the need for biasing in electronic circuits. What factors affect the stability factor?,Understanding
+What is Electrical noise? Write in brief the most prevalent types of Electrical noise.,Remembering
+"Draw the schematic diagram, stick diagram, and layout of a 2-input CMOS NAND gate.",Applying
+Define expert systems.,Remembering
+Develop a new eco-friendly plastic alternative using biodegradable materials.,Creating
+"If you had to create a new type of logic gate that operates with only 2 transistors, what would its functionality be, and how would it integrate into complex circuits?",Creating
+Create a new braking system for bicycles that improves safety in wet conditions.,Creating
+Explain design rules for layouts.,Understanding
+Explain different wiring capacitances used in gate-level design with an example.,Understanding
+Draw and explain the operation of a common-source amplifier.,Understanding
+Write a detailed note on Wavelength Division Multiplexing.,Understanding
+Explain the BiCMOS process over CMOS technology.,Understanding
+Explain the advantages of â€˜High Level languageâ€™ based â€˜Embedded firmwareâ€™ development.,Understanding
+Explain recurrent neural networks (RNNs) and their applications.,Understanding
+Design a process to optimize the extraction of lithium for battery production.,Creating
+Compare preemptive and non-preemptive scheduling.,Understanding
+What are the benefits of h-parameters?,Understanding
+What is the early effect? Explain the effect of the early effect on transistor characteristics.,Understanding
+Define the following: i) Clarke orbit ii) Free-space path loss.,Remembering
+Explain the sigmoid function with a neat sketch.,Understanding
+What are heuristics in AI search techniques?,Remembering
+How does a distributed database work? Explain advantages and disadvantages.,Understanding
+What are the limitations in selecting the operating region in a transistor circuit?,Understanding
+What is meant by Network Topology? Draw and explain the structure of all Multipoint Topologies.,Understanding
+Design a new type of gearbox that improves efficiency by 30% for an electric vehicle.,Creating
+Write about the modes of propagation of light through optical fiber.,Remembering
+"With necessary equations, derive charge densities in a semiconductor material.",Applying
+Define Multiplexing. Explain briefly about Time-Division Multiplexing (TDM).,Understanding
+Discuss the limits of scaling and explain why scaling is necessary for VLSI circuits.,Understanding
+Explain small signal analysis of a common-source FET amplifier.,Understanding
+Explain pipelining in digital circuits and its advantages.,Understanding
+What is COMPANDING? Write about ANALOG COMPANDING.,Remembering
+Draw the small signal model of an FET and explain the significance of each element.,Understanding
+What is meant by Frequency-Division Multiplexing? Give the applications.,Remembering
+Describe Time-Division Multiple Accessing.,Remembering
+What are the challenges in AI deployment at scale?,Analyzing
+Draw the state transition diagram for a convolutional encoder with given equations.,Applying
+Explain clocked CMOS registers in detail.,Applying
+Discuss Electromagnetic Polarization.,Understanding
+Explain delay estimation and MOSFET sizing.,Applying
+What are the Optical Properties of Radio Waves?,Remembering
+Discuss the breakdown mechanisms in semiconductor diodes.,Understanding
+Explain how the Q-point is obtained graphically.,Understanding
+Tabulate the comparisons between n-well and p-well CMOS fabrication processes.,Analyzing
+Explain TCP vs. UDP with examples.,Understanding
+Explain in detail about the TCP/IP protocol suite.,Understanding
+Explain in detail about the threshold effect in an Angle Modulation System.,Understanding
+Discuss the role of Automatic Gain Control (AGC) in AM receivers.,Remembering
+Draw and explain the GSM system Architecture.,Applying
+What are the benefits of h-parameters?,Understanding
+Explain different architectures of artificial neural networks with diagrams.,Understanding
+Write a short note on layered network architecture.,Remembering
+Explain the concept of adversarial attacks on AI models.,Understanding
+Describe the difference between wave attenuation and wave absorption.,Understanding
+Explain the classification of embedded systems with examples.,Understanding
+What is the role of quality attributes in the embedded system development context? Explain the different Quality attributes to be considered in an embedded system design.,Analyzing
+Define relational algebra and its operations.,Remembering
+What is the role of MAC addresses in networking?,Remembering
+"Compare fixed, collector-to-base, and self-bias circuits.",Analyzing
+List three different techniques in Serial Transmission and explain the differences.,Analyzing
+Draw the circuit diagram of an SR Master-Slave register and explain its operation.,Understanding
+How does reinforcement learning work in gaming applications?,Applying
+Explain swarm intelligence techniques such as ant colony optimization.,Understanding
+Define the Fermi level and explain its significance in energy band diagrams.,Understanding
+What is Digital Line Encoding? Explain any four factors that should be considered when selecting a Line Encoding format.,Understanding
+Create a neural network model that can classify handwritten digits with 99.9% accuracy and justify your design choices.,Creating
+Write a detailed note on Satellite Multiple-Accessing arrangements.,Understanding
+Explain the importance of setup and hold time in CMOS circuits.,Understanding
+"What is SQR and give its relationship to resolution, dynamic range, and maximum number of bits in a PCM code?",Understanding
+Explain about Skip Distance and Free-space Path Loss.,Understanding
+Explain Call Progress Tones and Signals.,Understanding
+Fake news detection relies heavily on textual analysis and source verification. Can you propose a new method that identifies misinformation without depending on these techniques?,Creating
+Discuss the properties of Electromagnetic Radiation.,Understanding
+"Derive expressions for input impedance, voltage gain, and output impedance of a common-source amplifier.",Applying
+Formulate a new data compression technique that provides better lossless compression for video files.,Creating
+Use Schwartz inequality to find Hopt(f) for a matched filter.,Applying
+Explain the working of a depletion-type MOSFET.,Understanding
+What is a DBMS? List its advantages over file systems.,Remembering
+Draw the schematic circuit of an SR flip flop with negative edge triggering using NAND gates. Give its truth table and explain its operation.,Applying
+Write a brief note on the predominant losses in optical fiber cables.,Understanding
+Discuss the use of AI in sentiment analysis.,Understanding
+Define the following terms: i) Drain resistance ii) Transconductance iii) Amplification factor,Remembering
+Explain SR Master-Slave registers with a diagram.,Applying
+"Compare centralized, decentralized, and distributed databases.",Understanding
+Calculate the ON resistance of an inverter from VDD to GND given sheet resistances.,Applying
+"Compute entropy for a source with symbols A, B, C (probabilities 0.5, 0.3, 0.2) and develop Huffman code.",Applying
+Design a robotic arm with multiple degrees of freedom for a manufacturing process.,Creating
+"Generate codewords for cyclic BCH (15,5) code using g(x)=x10+x8+x5+x4+x2+x+1.",Applying
+What are the functionalities of an operating system?,Remembering
+Explain in detail about Mobile Telephone Services.,Understanding
+How is AI used in robotics and automation?,Understanding
+Explain the operation of a single-stage amplifier with a diode-connected load.,Understanding
+Analyze a CMOS inverter with its transfer characteristics.,Analyzing
+Classify and explain Data Communication Character Codes.,Understanding
+Obtain CB parameters in terms of CE parameters.,Applying
+Explain in detail about Electromagnetic Polarization and Optical properties of radio waves.,Understanding
+Write a short note on Multi-Frequency and Dial Pulses.,Remembering
+What is aperture effect? Explain.,Understanding
+Define Signal Analysis. Give a brief description of periodic signals.,Remembering
+Explain the importance of chatbots in customer service.,Understanding
+Write short notes on the ultra-deep-submicron era.,Remembering
+Explain the operation of a photo transistor.,Understanding
+Demodulate a PSK signal using a coherent receiver.,Applying
+Explain FinFET technology and its advantages over MOSFETs.,Understanding
+Explain briefly about the losses in Optical Fiber cables.,Understanding
+Explain the problem of driving large capacitive loads. How can such loads be driven?,Understanding
+Discuss the applications of AI.,Understanding
+Explain different types of operating systems with examples.,Understanding
+Design a gear system that can efficiently transfer motion between two non-parallel shafts. Explain your design choices.,Creating
+Explain the significance of Pre-emphasis and De-emphasis in FM transmission.,Understanding
+Explain the body bias effect.,Understanding
+List out the difference between analog and digital systems.,Remembering
+Explain Call Progress Tones and Signals.,Understanding
+Explain OSI and TCP/IP models in computer networks.,Understanding
+Explain the characteristics of neural networks.,Understanding
+Explain the concept of punch-through/reach-through in a BJT.,Understanding
+What is the role of stored procedures in DBMS?,Understanding
+Discuss about laser diode.,Understanding
+List out major application areas of embedded systems with examples.,Remembering
