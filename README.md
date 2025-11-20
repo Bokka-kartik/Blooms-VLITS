@@ -66,6 +66,12 @@ i also attached the related paper that we have done feel free to refer the docum
 ## Contributions
 Pull requests and issues are welcome. Let's improve education tech together!
 
+##For dry run (just to check in web) 
+-> first we need to make the server live to make it work 
+-> after that select the percentage of bloom's level each & select the csv file here in my repo i have file_name "total" 
+-> just enter those and click generate the doc as for the csv data 
+-> could also add your desired file in csv format and generate the question paper
+
 
 
 
