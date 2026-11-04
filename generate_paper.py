@@ -154,6 +154,7 @@ from docx import Document
 import os
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from datetime import datetime
+from bloom_levels import normalize_bloom_level
 
 DATASET_FOLDER = "dataset/"
 
@@ -191,10 +192,19 @@ def generate_question_paper(topic, num_questions, total_marks, bloom_distributio
     selected_questions = []
 
     for bloom, count in questions_per_bloom.items():
-        available = df[df['bloom_taxonomy_level'] == bloom]['question'].tolist()
+        normalized_bloom = normalize_bloom_level(bloom)
+        available = df[
+            df['bloom_taxonomy_level'].map(normalize_bloom_level) == normalized_bloom
+        ]['question'].tolist()
         if available:
             selected = random.sample(available, min(count, len(available)))
             selected_questions.extend([(q, bloom) for q in selected])
+
+    if len(selected_questions) < num_questions:
+        raise ValueError(
+            f"Only {len(selected_questions)} questions match the requested Bloom distribution; "
+            f"{num_questions} were requested."
+        )
 
     random.shuffle(selected_questions)
 
