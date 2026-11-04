@@ -533,6 +533,9 @@ def show_admin_dashboard():
         """, (st.session_state["username"],))
         uploads = cursor.fetchall()
         conn.close()
+        if not uploads:
+            st.info("No uploaded datasets to manage yet.")
+            return
         print("uploads",uploads[0][1])
         # datasets = [f for f in os.listdir(DATASET_FOLDER) if f.endswith(".csv")]
         datasets=[]

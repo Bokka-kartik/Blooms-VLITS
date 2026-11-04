@@ -9,6 +9,7 @@ import torch
 from transformers import BertTokenizer, BertForSequenceClassification
 import docx
 import re
+from question_text import strip_question_number
 
 # Load the fine-tuned model and tokenizer
 @st.cache_resource
@@ -64,8 +65,7 @@ def extract_text_from_docx(docx_path):
         # Extract difficulty level using the updated function
         difficulty = extract_difficulty(text)
         question = re.sub(r"(?:\(|\[)?(Easy|Medium|Hard)(?:\)|\])?$", "", text).strip()  # Remove difficulty from question
-
-        extracted_data.append({"question": question[2:], "difficulty": difficulty})
+        extracted_data.append({"question": strip_question_number(question), "difficulty": difficulty})
 
     return extracted_data  # Returns a list of dictionaries with question and difficultyimport re  # Add regex for extracting difficulty level
 #extracting difficulty level from question text
